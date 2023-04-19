@@ -1,0 +1,5 @@
+PP34,La Carretera,Conan McCarthy,212,true,2022-01-14,2022-01-24
+LI67,Los Pilares de la Tierra,Ken Follet,1210,false,0,0
+AS45,La Conjura de los necios,John Kennedy Toole,490,false,0,0
+RT77,El Medico,Noah Gordon,870,false,0,0
+SS56,Sinuhe el Egipcio,Mika Waltari,890,false,0,0
